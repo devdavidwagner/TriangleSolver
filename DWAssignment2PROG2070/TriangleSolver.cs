@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DWAssignment2PROG2070
 {
-    class TriangleSolver
+    public class TriangleSolver
     {
       
         /// <summary>
