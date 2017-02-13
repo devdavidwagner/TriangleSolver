@@ -1,19 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!--This file represents the results of running a test suite-->
-<test-results name="G:\QUALITY_ASSURANCE_ASSIGNMENTS\DWAssignment2PROG2070\DWAssignment2PROG2070.Tests\bin\Debug\DWAssignment2PROG2070.Tests.dll" total="8" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2017-02-13" time="13:40:50">
+<test-results name="G:\QUALITY_ASSURANCE_ASSIGNMENTS\DWAssignment2PROG2070\DWAssignment2PROG2070.Tests\bin\Debug\DWAssignment2PROG2070.Tests.dll" total="8" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2017-02-13" time="13:44:44">
   <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.5485" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.4\bin" machine-name="2A411-B02" user="dwagner6506" user-domain="CONESTOGAC" />
   <culture-info current-culture="en-US" current-uiculture="en-US" />
-  <test-suite type="Assembly" name="G:\QUALITY_ASSURANCE_ASSIGNMENTS\DWAssignment2PROG2070\DWAssignment2PROG2070.Tests\bin\Debug\DWAssignment2PROG2070.Tests.dll" executed="True" result="Success" success="True" time="0.064" asserts="0">
+  <test-suite type="Assembly" name="G:\QUALITY_ASSURANCE_ASSIGNMENTS\DWAssignment2PROG2070\DWAssignment2PROG2070.Tests\bin\Debug\DWAssignment2PROG2070.Tests.dll" executed="True" result="Success" success="True" time="0.059" asserts="0">
     <results>
-      <test-suite type="Namespace" name="DWAssignment2PROG2070" executed="True" result="Success" success="True" time="0.057" asserts="0">
+      <test-suite type="Namespace" name="DWAssignment2PROG2070" executed="True" result="Success" success="True" time="0.051" asserts="0">
         <results>
-          <test-suite type="Namespace" name="Tests" executed="True" result="Success" success="True" time="0.057" asserts="0">
+          <test-suite type="Namespace" name="Tests" executed="True" result="Success" success="True" time="0.051" asserts="0">
             <results>
-              <test-suite type="TestFixture" name="TriangleTest" executed="True" result="Success" success="True" time="0.055" asserts="0">
+              <test-suite type="TestFixture" name="TriangleTest" executed="True" result="Success" success="True" time="0.049" asserts="0">
                 <results>
-                  <test-case name="DWAssignment2PROG2070.Tests.TriangleTest.Enter123ShouldNotCreateTriangle" executed="True" result="Success" success="True" time="0.035" asserts="1" />
+                  <test-case name="DWAssignment2PROG2070.Tests.TriangleTest.Enter123ShouldNotCreateTriangle" executed="True" result="Success" success="True" time="0.030" asserts="1" />
                   <test-case name="DWAssignment2PROG2070.Tests.TriangleTest.Enter222ShouldReturnEquilateral" executed="True" result="Success" success="True" time="0.000" asserts="1" />
-                  <test-case name="DWAssignment2PROG2070.Tests.TriangleTest.Enter448ShouldReturnIsosceles" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="DWAssignment2PROG2070.Tests.TriangleTest.Enter447ShouldReturnIsosceles" executed="True" result="Success" success="True" time="0.000" asserts="1" />
                   <test-case name="DWAssignment2PROG2070.Tests.TriangleTest.Enter459ShouldNotCreateTriangle" executed="True" result="Success" success="True" time="0.000" asserts="1" />
                   <test-case name="DWAssignment2PROG2070.Tests.TriangleTest.Enter479ShouldReturnScalene" executed="True" result="Success" success="True" time="0.000" asserts="1" />
                   <test-case name="DWAssignment2PROG2070.Tests.TriangleTest.EnterNegative000ShouldNotCreateTriangle" executed="True" result="Success" success="True" time="0.000" asserts="1" />

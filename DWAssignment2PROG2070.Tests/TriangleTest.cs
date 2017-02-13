@@ -81,7 +81,7 @@ namespace DWAssignment2PROG2070.Tests
 
         //4, 4, 7 - Isosceles 
         [Test]
-        public void Enter448ShouldReturnIsosceles()
+        public void Enter447ShouldReturnIsosceles()
         {
             //Arrange
             int a = 4;
